@@ -177,8 +177,7 @@
 					e = t.$createElement,
 					n = t._self._c || e;
 				return n("h1", [t._v("Every moment is an experience."), n("br"), 
-					            t._v("Take advantage of your moment"), n("br"), 
-					            t._v("and don't miss an experience. ")])
+					            t._v("Take advantage of your moment and don't miss an experience. ")])
 			}, function () {
 				var t = this,
 					e = t.$createElement,
